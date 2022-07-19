@@ -12,4 +12,4 @@ Use control + left click to move around
 
 Use left click to place the selected tile
 
-Press F2 to 
+Press F2 to print final result to console
